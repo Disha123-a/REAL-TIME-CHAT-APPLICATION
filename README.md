@@ -35,3 +35,8 @@ This project demonstrates important concepts such as:
 * Building responsive and interactive user interfaces
 
 Overall, this real-time chat application is a beginner-friendly project that showcases how modern web technologies can be combined to create interactive applications. It serves as a strong foundation for more advanced features such as authentication, private messaging, message history storage, and deployment to cloud platforms.
+
+
+output:
+<img width="787" height="560" alt="image" src="https://github.com/user-attachments/assets/bc4798be-ea6c-4913-b27f-241078d4e73e" />
+
